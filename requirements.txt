@@ -1,1 +1,1 @@
-Django~=2.0.6W
+Django~=2.0.6
